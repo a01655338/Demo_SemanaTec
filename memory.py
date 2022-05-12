@@ -8,6 +8,7 @@ Exercises:
 4. Center single-digit tile.
 5. Use letters instead of tiles.
 
+Hola, estoy probando a ver si me sale esto. Fin del comunicado. - Lía
 """
 
 from random import *
